@@ -3,7 +3,7 @@ import copy
 import PI_and_EPI as PNE
 import CD_and_RD as Dom
 '''
-논리회로설계 20180539 김준관 도전과제 CD, RD 제출
+논리회로설계 XXXXXXXX XXX 도전과제 CD, RD 제출
 '''
 # 솔루션, While루프 + PM 여부
 def solution(minterm):
